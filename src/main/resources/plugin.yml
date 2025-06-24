@@ -1,0 +1,17 @@
+name: AINPC
+version: 1.0
+main: org.example.pans.aINPC.AINPC
+api-version: 1.20
+authors: [KonDzio]
+
+commands:
+  npcpath:
+    description: Ustawianie ścieżki NPC
+    usage: /npcpath <start|add <nazwa>|save <npcId>>
+  setnpcrole:
+    description: Ustawia rolę dla NPC (CLIENT, URZEDNIK itd.)
+    usage: /setnpcrole <npcId> <rola>
+
+permissions: {}
+
+depend: [Citizens, Vault]

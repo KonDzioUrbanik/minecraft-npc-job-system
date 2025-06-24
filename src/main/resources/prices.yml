@@ -1,0 +1,103 @@
+BREAD:
+  min: 1
+  max: 12
+
+POTATO:
+  min: 1
+  max: 8
+
+APPLE:
+  min: 1
+  max: 10
+
+CARROT:
+  min: 1
+  max: 9
+
+MELON:
+  min: 1
+  max: 14
+
+PUMPKIN:
+  min: 1
+  max: 7
+
+COOKED_BEEF:
+  min: 1
+  max: 16
+
+COOKED_PORKCHOP:
+  min: 1
+  max: 15
+
+CHICKEN:
+  min: 1
+  max: 6
+
+MUTTON:
+  min: 1
+  max: 10
+
+RABBIT:
+  min: 1
+  max: 7
+
+STEAK:
+  min: 1
+  max: 18
+
+MUSHROOM_STEW:
+  min: 1
+  max: 5
+
+SUSPICIOUS_STEW:
+  min: 1
+  max: 5
+
+BEETROOT:
+  min: 1
+  max: 7
+
+BEETROOT_SOUP:
+  min: 1
+  max: 6
+
+TROPICAL_FISH:
+  min: 1
+  max: 8
+
+COD:
+  min: 1
+  max: 6
+
+SALMON:
+  min: 1
+  max: 8
+
+DRIED_KELP:
+  min: 1
+  max: 4
+
+HONEY_BOTTLE:
+  min: 1
+  max: 5
+
+GLISTERING_MELON_SLICE:
+  min: 1
+  max: 6
+
+GLOW_BERRIES:
+  min: 1
+  max: 7
+
+POTION:
+  min: 1
+  max: 10
+
+SPLASH_POTION:
+  min: 1
+  max: 8
+
+LINGERING_POTION:
+  min: 1
+  max: 7

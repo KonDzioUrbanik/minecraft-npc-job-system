@@ -1,0 +1,13 @@
+prace:
+  - SKLEPIKARZ
+  - OGRODNIK
+
+poziomy:
+  SKLEPIKARZ:
+    1: 0
+    2: 5
+    3: 10
+  OGRODNIK:
+    1: 0
+    2: 4
+    3: 8
