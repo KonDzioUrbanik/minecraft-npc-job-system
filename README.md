@@ -52,7 +52,19 @@ Jeśli interesuje Cię rozszerzona wersja z NPC poruszającymi się swobodnie, p
 ---
 
 ## 📸 Zrzuty ekranu
-_(dodaj screeny do folderu `screenshots/` w repo)_  
+## 📸 Przykładowe zrzuty ekranu
+
+### NPC rozpoczynający interakcję
+![s1](screenshots/s1.png)
+
+### Negocjacja ceny przez gracza
+![s2](screenshots/s2.png)
+
+### GUI wyboru pracy
+![s3](screenshots/s3.png)
+
+> Więcej przykładów znajdziesz w folderze `screenshots/`
+
 - NPC z ofertą pracy  
 - GUI z wyborem profesji  
 - NPC z dialogiem nad głową  
