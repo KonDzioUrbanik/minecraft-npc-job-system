@@ -55,13 +55,17 @@ Jeśli interesuje Cię rozszerzona wersja z NPC poruszającymi się swobodnie, p
 ## 📸 Przykładowe zrzuty ekranu
 
 ### NPC rozpoczynający interakcję
-![s1](screenshots/s1.png)
-
-### Negocjacja ceny przez gracza
-![s2](screenshots/s2.png)
+![s5](screenshots/s5.png)
 
 ### GUI wyboru pracy
-![s3](screenshots/s3.png)
+![s2](screenshots/s2.png)
+
+### Negocjacja ceny przez gracza
+
+![s6](screenshots/s6.png)
+
+### AI  (nie dostępne w tej wersji)
+![s4](screenshots/s4.png)
 
 > Więcej przykładów znajdziesz w folderze `screenshots/`
 
