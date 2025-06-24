@@ -20,7 +20,7 @@ Ten plugin dodaje do Minecrafta system prac, poziomowania, NPC z dialogami oraz 
 Ta wersja pluginu **nie zawiera sztucznej inteligencji NPC**.  
 Jeśli interesuje Cię rozszerzona wersja z NPC poruszającymi się swobodnie, podejmującymi samodzielne decyzje, wchodzącymi w interakcje z otoczeniem i graczami – **mam gotowy, zaawansowany plugin z AI.**
 
-💼 **Możliwość zakupu wersji AI — skontaktuj się na Discordzie: `@kondzio2003`** lub na mailu `urbanik-konrad@wp.pl**
+💼 **Możliwość zakupu wersji AI — skontaktuj się na Discordzie: `@kondzio2003`** lub na mailu `kodujepluginymc@op.pl**
 
 ---
 
